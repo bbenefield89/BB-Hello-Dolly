@@ -8,7 +8,7 @@ To use the BB-Hello-Dolly plugin you need to first activate it in the plugin sec
 This plugin will output a random line of text that has been saved to the database. In order to make sure the plugin can read the lyrics correctly, make sure to add a new lyric on a different line
 
 ### Example
-Good - I got soul but I'm
-       not a soldier!
+Good - I got soul but I'm  
+not a soldier!
        
 Bad - I got soul but I'm not a soldier!
