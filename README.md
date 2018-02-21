@@ -9,6 +9,6 @@ This plugin will output a random line of text that has been saved to the databas
 
 ### Example
 Good - I got soul but I'm  
-not a soldier!
+       not a soldier!
        
 Bad - I got soul but I'm not a soldier!
