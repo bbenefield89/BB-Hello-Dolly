@@ -1,0 +1,42 @@
+.hello-dolly-wrapper-home {
+  text-align: center;
+  max-width: 600px;
+}
+
+h1 {
+  color: #444;
+  text-align: center;
+}
+
+p {
+  font-size: 1.25rem;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+textarea {
+  border: 1px solid rgba(0, 0, 0, .5);
+  height: 300px;
+  margin-bottom: 1.5rem;
+  width: 100%;
+}
+
+button {
+  background: #21759b;
+  border: 0;
+  border-radius: 3px;
+  color: #fff;
+  cursor: pointer;
+  font-size: 1.25rem;
+  padding: 10px;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, .3);
+  transition: background .15s;
+}
+
+button:hover {
+  background: #4ca6cf;
+}
